@@ -5,6 +5,9 @@
 # clone
     git clone https://github.com/rbb-soft/startup-webpack-only-js.git
 
+# install
+    npm install
+
 # transpile and run devServer
     npm run dev
 
